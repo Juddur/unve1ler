@@ -1,0 +1,2 @@
+cd C:\Users\judso\OneDrive\Desktop\unve1ler
+python3 unve1ler.py
